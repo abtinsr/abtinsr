@@ -1,4 +1,4 @@
-- 👋 Hello! I'm a business analyst dipping my toe in the data science and visualisation pond. 
+- 👋 Hello! I'm a business analyst dipping my toe in the applied statistics and data visualisation pond. 
 - 👀 Interests include an odd mix of innovation management, statistics, behavioural economics, journalism, growth and foreign policy - to name some things.
 
 <!---
